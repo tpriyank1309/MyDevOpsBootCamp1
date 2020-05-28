@@ -9,7 +9,7 @@ name: Lab_2_IaaS
 
 env:
   RG_NAME: rg-lab-2
-  LOCATION: canadaeast
+  LOCATION: eastus2
 
 jobs:
 
